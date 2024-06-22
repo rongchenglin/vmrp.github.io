@@ -1,7 +1,5 @@
 # zengming00.github.io
 ***
-```js
-console.log('helloworld');
-```
+JUST FOR FUN
 ## null
 
